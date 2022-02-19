@@ -1,5 +1,5 @@
 <?php 
-    include('../app/import/bootstrap.php');
+    include('../app/lib/bootstrap.php');
     include('../controller/verify-login-controller.php');
 ?>
 
