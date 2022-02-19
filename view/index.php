@@ -1,4 +1,7 @@
-<?php include('../app/lib/bootstrap.php');?>
+<?php 
+    include('../app/lib/bootstrap.php');
+    include('../app/public/native-imports.php');
+?>
 
 <head>
     <title>Old House | Login</title>
