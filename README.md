@@ -31,3 +31,4 @@
             </aside>
             
     - Arquivo SQL
+        Esta dentro da pasta raiz do projeto com o nome projeto-estudio-sis.sql
