@@ -1,6 +1,8 @@
 
     
 - Informações
+    - Geral
+        Para conseguir fazer uma venda, é necessário antes acessar como usuário comercial para cadastrar um cliente e como usuário administrativo para cadastrar um imóvel 
     - Login
         - Financeiro
             
