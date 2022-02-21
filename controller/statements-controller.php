@@ -3,7 +3,7 @@
     include('../model/database.php');
 
     $total_billing_select          = "select sum(value) as soma from properties a, sales b where a.id = b.property_id;";
-    $efetives_clients_count_select = "select count(a.id) as contagem from clients a, sales b where a.id = b.client_id;";
+    $efetives_clients_count_select = "select count(DISTINCT a.id) as contagem from clients a, sales b where a.id = b.client_id;";
     $clients_count_select          = "select count(id) as contagem from clients;";
     $properties_count_select       = "select count(id) as contagem from properties;";
 
