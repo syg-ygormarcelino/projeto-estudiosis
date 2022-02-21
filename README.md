@@ -2,7 +2,8 @@
     
 - Informações
     - Geral
-         - Para conseguir fazer uma venda, é necessário antes acessar como usuário comercial para cadastrar um cliente e como usuário administrativo para cadastrar um imóvel 
+         - Para conseguir fazer uma venda, é necessário antes acessar como usuário comercial para cadastrar um cliente e como usuário administrativo para cadastrar um imóvel. 
+         - Arquivo SQL está dentro da pasta raiz do projeto com o nome projeto-estudio-sis.sql
     - Login
         - Financeiro
             
@@ -32,5 +33,4 @@
             
             </aside>
             
-    - Arquivo SQL
-        Esta dentro da pasta raiz do projeto com o nome projeto-estudio-sis.sql
+ 
