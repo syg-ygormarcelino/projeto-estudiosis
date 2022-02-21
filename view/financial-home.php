@@ -34,7 +34,6 @@
             <?php 
                 if(mysqli_num_rows($query) > 0){
         
-                    $c = 0;
                     while($row = mysqli_fetch_array($query)){
             
                         $id = $row["id"]; 
