@@ -1,0 +1,8 @@
+body{
+    background-image: url("../img/login-backgroud.jpg");
+}
+
+#login_form{
+    background-color: rgba(0, 0, 0, 0.726);
+    border-radius: 15%;
+}
